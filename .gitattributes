@@ -1,2 +1,2 @@
 .gitattributes export-ignore
-MeetingMinutes/** export-ignore
+/documentation/MeetingMinutes/** export-ignore
